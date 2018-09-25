@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Build a CLI Tic Tac Toe game!
+1. Build a CLI Tic Tac Toe game.
 
 ## Overview
 
